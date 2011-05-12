@@ -17,13 +17,18 @@
         </Grid.RowDefinitions>
 
         <!--TitleGrid is the name of the application and page title-->
-        <Grid x:Name="TitleGrid" Grid.Row="0">
-            <TextBlock Text="MY APPLICATION" x:Name="textBlockPageTitle" Style="{StaticResource PhoneTextPageTitle1Style}"/>
-            <TextBlock Text="page title" x:Name="textBlockListTitle" Style="{StaticResource PhoneTextPageTitle2Style}"/>
+        <Grid Grid.Row="0" x:Name="TitleGrid">
+            <TextBlock x:Name="ApplicationName" Text="Otios" Style="{StaticResource PhoneTextPageTitle1Style}"/>
+            <TextBlock x:Name="ListName" Text="Unit Convert" Style="{StaticResource PhoneTextPageTitle2Style}"/>
         </Grid>
 
-        <!--ContentGrid is empty. Place new content here-->
-        <Grid x:Name="ContentGrid" Grid.Row="1">
+        <!--This section is empty. Place new content here Grid.Row="1"-->
+        <Grid Grid.Row="1" x:Name="ContentGrid">
+            <TextBlock Height="39" HorizontalAlignment="Left" Margin="6,0,0,0" Name="convertTypeTextBock" Text="Select Conversion Type:" VerticalAlignment="Top" Width="344" Foreground="White" FontSize="32" />
+            <ListBox Height="579" HorizontalAlignment="Left" Margin="0,45,0,0" Name="convertTypeSelectBox" VerticalAlignment="Top" Width="460">
+                <ListBoxItem Content="Acceleration" Name="acceleration" />
+                <ListBoxItem Content="Area" Name="area" />
+            </ListBox>
         </Grid>
     </Grid>
     

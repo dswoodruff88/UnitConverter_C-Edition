@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\obj\Debug\App.g.cs
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\obj\Debug\MainPage.g.cs
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\obj\Debug\UnitConverter.g.cs
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\obj\Debug\Unit Converter.g.resources
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\Bin\Debug\ApplicationIcon.png
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\Bin\Debug\Background.png
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\Bin\Debug\Unit Converter.dll
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\Bin\Debug\Unit Converter.pdb
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\Bin\Debug\AppManifest.xaml
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\Bin\Debug\Unit_Converter.xap
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\obj\Debug\Unit Converter.dll
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\obj\Debug\Unit Converter.pdb
+C:\Users\David\Documents\Development\UnitConverter_WindowsPhone7\Unit Converter\Unit Converter\obj\Debug\XapCacheFile.xml
